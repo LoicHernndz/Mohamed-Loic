@@ -4,5 +4,5 @@ Vous trouverez de nombreux détails à propos de sa conception, de caractéristi
 
 Vous pourrez enfin trouver notre ressenti personnel sur ces types de jeux, ce qu'ils nous inspirent.
 
-## Bonne Lecture !
-####Loïc Hernandez et Mohamed
+### Bonne Lecture !
+#### *Loïc Hernandez et Mohamed Meftahi*
